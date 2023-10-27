@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Issamthejoat
 - 👀 I’m interested in Philosophy, Languages, Books, Calisthenics, Data Science and AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Issamthejoat/Issamthejoat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
